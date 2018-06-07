@@ -3,7 +3,7 @@
 Texas Statutes Duplicate Section Analysis
 =========================================
 
-_Report generated on: 2018-06-06 17:41_
+_Report generated on: 2018-06-06 17:45_
 
 * Total duplicates: **548**
 * Affected sections: **308**
@@ -12,7 +12,7 @@ _Report generated on: 2018-06-06 17:41_
 Duplicated Section Listing
 --------------------------
 
-All found duplicated sections, linked to the original source at Texas Legislature Online (`statutes.capitol.texas.gov`).
+All duplicate sections found by the public.law code. Linked to their original source at Texas Legislature Online (`statutes.capitol.texas.gov`).
 
 * [Agric. Code &sect; 59.016](https://statutes.capitol.texas.gov/Docs/ag/htm/ag.59.htm#59.016)
 * [Bus. & Com. Code &sect; 17.56](https://statutes.capitol.texas.gov/Docs/bc/htm/bc.17.htm#17.56)
